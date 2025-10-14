@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AryanKumarOfficial">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&weight=800&color=BA0C0C&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryan+Kumar;A+Passionate+Full+Stack+Developer;E-commerce+Solutions+Expert;Open-Source+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&weight=800&color=0096CF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryan+Kumar;A+Passionate+Full+Stack+Developer;Building+Scalable+Web+Applications;Open-Source+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-I’m a full-stack developer who loves turning complex problems into elegant digital solutions. I specialize in building scalable web applications, dynamic e-commerce platforms, and high-performance, SEO-optimized websites.
+I’m a full-stack developer passionate about turning complex problems into elegant, scalable digital solutions. I thrive on building robust web applications and contributing to the open-source community.
 </p>
 
 <p align="center">
@@ -30,33 +30,31 @@ I’m a full-stack developer who loves turning complex problems into elegant dig
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## ⚡ Core Strengths & Philosophy
-I believe that great software is born from a blend of technical excellence and user-centric design. My approach is centered around these core principles:
+## ⚡ Core Philosophy
+I believe that great software is born from a blend of technical excellence and a deep understanding of system architecture.
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-backend-computer-programming-flaticons-flat-flat-icons.png" alt="Full Stack Icon" width="64">
-      <br><strong>End-to-End Solutions</strong>
-      <br><small>From backend logic to pixel-perfect UI, I build and manage complete applications.</small>
+      <br><strong>End-to-End Development</strong>
+      <br><small>Proficient in designing and developing full-stack applications, from database architecture to front-end implementation.</small>
     </td>
     <td align="center">
-    <img src="https://img.icons8.com/pastel-glyph/64/web-design--v1.png" alt="UI/UX Icon" width="48">
-      <br><strong>Intuitive UI/UX</strong>
-      <br><small>Crafting user-friendly and engaging interfaces that are a joy to use.</small>
+      <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="UI/UX Icon" width="64">
+      <br><strong>Component-Driven UI</strong>
+      <br><small>Focused on creating accessible and intuitive user interfaces with a clean, component-based approach.</small>
     </td>
     <td align="center">
-      <img src="" alt="Performance Icon" width="64">
+      <img src="https://img.icons8.com/fluency/48/000000/speed.png" alt="Performance Icon" width="64">
       <br><strong>Scalability & Performance</strong>
-      <br><small>Writing clean, efficient code and designing systems that grow with the user base.</small>
+      <br><small>Dedicated to writing clean, maintainable code and architecting scalable, high-performance systems.</small>
     </td>
   </tr>
 </table>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
 
 ## 🚀 What I'm Currently Building
 
@@ -67,19 +65,22 @@ I believe that great software is born from a blend of technical excellence and u
 </p>
 
 ## 📝 My Latest Blog Posts
+*I believe in sharing knowledge. Here are some of my latest articles.*
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 🛠️ My Tech Stack
 
-| Category                  | Technologies & Tools                                                                                                                                                                                                                                                                                                        |
-| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/>      |
-| **Frontend Development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/> |
-| **Backend & Runtimes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>                                                                                                                                                                                           |
-| **Version Control & Collaboration** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>                                                                      |
-| **Platforms & E-commerce** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" title="WordPress"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="40" alt="Shopify" title="Shopify"/>                                                       |
+| Category                 | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                         |
+| :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>                                                                 |
+| **Frontend Development** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/> |
+| **Backend & Runtimes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>                                                                                                     |
+| **Databases & ORMs** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma"/>                                                                                             |
+| **DevOps & Testing** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" title="Jest"/>                                                                                                                       |
+| **Version Control** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>                                                                                                                         |
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -100,7 +101,6 @@ I believe that great software is born from a blend of technical excellence and u
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanKumarOfficial&theme=radical&hide_border=true&area=true" width="100%">
 </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -124,7 +124,7 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 
 <p align="center">
   <a href="https://aryankumarofficial.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-BA0C0C?style=for-the-badge&logo=your-logo&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0096CF?style=for-the-badge&logo=your-logo&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/aryankumarofficial" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -143,7 +143,7 @@ I'm always excited to connect with fellow developers, potential collaborators, a
 <p align="center">
   If you like what I do and want to support my open-source contributions, you can buy me a coffee!  
   <br><br>
-  <a href="https://www.buymeacoffee.com/AryanKumarOfficial" target="_blank">
+  <a href="https://www.buymeacaffee.com/AryanKumarOfficial" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
   </a>
 </p>
