@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Aryan%20Kumar&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full-Stack%20TypeScript%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" />
 </p>
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKumarOfficial&theme=neon&hide_border=true" height="160" />
-</p>
+
 
 ---
 
@@ -50,12 +47,21 @@ Currently pursuing B.Tech in Computer Science (2027).
 
 ---
 
-# 🌟 Featured Projects
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKumarOfficial&theme=neon&hide_border=true" height="160" />
+</p>
 
 ---
 
+# 🌟 Featured Projects
+
+
 ## 🏆 Blind – Anonymous College Community Platform  
 > Production-style full-stack application
+
+🔗 https://blind-app-rust.vercel.app/
+
 
 **Tech:** Next.js, TypeScript, PostgreSQL, Prisma, TanStack Query, JWT, Docker  
 
@@ -90,6 +96,8 @@ Currently pursuing B.Tech in Computer Science (2027).
 ---
 
 ## ⚙️ ServiQuick – Service Marketplace (Frontend Focus)
+🔗 https://serviquick.vercel.app/
+
 
 **Tech:** Next.js, TailwindCSS, Aceternity UI  
 
@@ -104,6 +112,7 @@ Currently pursuing B.Tech in Computer Science (2027).
 ---
 
 ## 💼 SoftSell – SaaS Landing Platform
+🔗 https://softsell-drab.vercel.app/
 
 **Tech:** Next.js, TailwindCSS  
 
@@ -118,6 +127,8 @@ Currently pursuing B.Tech in Computer Science (2027).
 ---
 
 ## 📝 CloudNote – Note-Taking CRUD App  
+🔗 https://cloudinote.vercel.app/  
+
 
 **Tech:** Next.js, TypeScript, MongoDB  
 
