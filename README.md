@@ -1,111 +1,159 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Aryan%20Kumar&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full-Stack%20TypeScript%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descSize=18&descAlign=50&descAlignY=60&animation=fadeIn" />
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=280&section=header&text=Aryan%20Kumar&fontSize=80&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Solutions&descSize=20&descAlign=50&descAlignY=62&animation=fadeIn" alt="Aryan Kumar Header" width="100%" />
-
-  <br />
-
-  <h3>
-    Building robust web applications & contributing to the open-source ecosystem.
-  </h3>
-  
-  <p>
-    I am a <b>3rd-year B.Tech Computer Science student</b> at <b>OIST, Bhopal</b>. <br />
-    Passionate about architecture, pixel-perfect UI, and system scalability.
-  </p>
-
-  <br />
-
-  <p>
-    <a href="https://aryankumarofficial.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/aryankumarofficial" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:aryanak9163@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
-
-<br />
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKumarOfficial&theme=neon&hide_border=true" height="160" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 About Me
 
-<div align="center">
-  <p>I build with modern, performance-driven tools.</p>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,ts,js,java&theme=dark" />
-    <br /><br />
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git,github,tailwind,jest&theme=dark" />
-  </a>
-</div>
+I’m a Full-Stack TypeScript Engineer with 3+ years of hands-on experience building production-style web applications using **Next.js, Node.js, PostgreSQL, Prisma, and scalable API systems**.
 
-<br />
+I enjoy building systems end-to-end — from responsive frontend interfaces to well-structured backend services and database architecture. I focus on clean code, performance, and shipping meaningful features.
+
+Currently pursuing B.Tech in Computer Science (2027).
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠 Tech Stack
 
-<div align="center">
-    <img height="180" src="https://nirzak-streak-stats.vercel.app?user=AryanKumarOfficial&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AryanKumarOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKumarOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Languages" />
-  
+### Frontend
+- Next.js (App Router)
+- React
+- TailwindCSS
+- TanStack Query
+- Redux Toolkit
 
-</div>
+### Backend
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+- Drizzle ORM
 
-<br />
+### Authentication & Security
+- JWT-based authentication
+- OTP systems
+- Role-based access control
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/aryankumarofficial/blind-app">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=blind-app&theme=tokyonight&hide_border=true&title_color=fff" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/aryankumarofficial/stackoverflow-appwrite-clone">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=stackoverflow-appwrite-clone&theme=tokyonight&hide_border=true&title_color=fff" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-         <a href="https://github.com/aryankumarofficial/softsell">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=softsell&theme=tokyonight&hide_border=true&title_color=fff" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-         <a href="https://github.com/aryankumarofficial/cloudnote">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=cloudnote&theme=tokyonight&hide_border=true&title_color=fff" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
+### DevOps & Tooling
+- Docker
+- Git & PR-based workflows
+- Vercel deployment
+- REST API design
 
 ---
 
-<div align="center">
-  
-  ### 🤝 Let's Collaborate
-  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+# 🌟 Featured Projects
 
-  <a href="https://www.buymeacaffee.com/AryanKumarOfficial" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
-  </a>
+---
 
-</div>
+## 🏆 Blind – Anonymous College Community Platform  
+> Production-style full-stack application
+
+**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, TanStack Query, JWT, Docker  
+
+- Anonymous posting, commenting, and engagement system  
+- Custom JWT + OTP authentication  
+- Engagement-based ranking algorithm  
+- Real-time feed updates  
+- PR-based collaborative workflow  
+
+**My Contribution:**  
+- Designed engagement scoring logic (weighted interaction model)  
+- Built feed update system using TanStack Query  
+- Contributed to backend API design  
+- Participated in structured code reviews  
+
+---
+
+## 🎯 DebugOIST – University Tech Club Platform  
+🔗 https://debugoist.vercel.app/en  
+
+**Tech:** Next.js, TailwindCSS  
+
+- Responsive multi-page platform  
+- Event management module  
+- Structured UI architecture  
+
+**My Contribution:**  
+- Built Event Management system  
+- Maintained UI consistency and responsive behavior  
+- Deployed and optimized performance  
+
+---
+
+## ⚙️ ServiQuick – Service Marketplace (Frontend Focus)
+
+**Tech:** Next.js, TailwindCSS, Aceternity UI  
+
+- Reusable UI components  
+- Responsive layout system  
+- Performance-focused structure  
+
+**My Contribution:**  
+- Complete frontend implementation  
+- Component architecture and responsive system  
+
+---
+
+## 💼 SoftSell – SaaS Landing Platform
+
+**Tech:** Next.js, TailwindCSS  
+
+- Marketing-focused SaaS interface  
+- Clean, modular component structure  
+- Optimized responsive layout  
+
+**My Contribution:**  
+- Full frontend implementation  
+- Component structuring for maintainability  
+
+---
+
+## 📝 CloudNote – Note-Taking CRUD App  
+
+**Tech:** Next.js, TypeScript, MongoDB  
+
+- Authentication system  
+- Note CRUD operations  
+- API integration  
+
+**My Contribution:**  
+- Built authentication flow  
+- Implemented backend + frontend CRUD logic  
+
+---
+
+# 🧠 Engineering Interests
+
+- Backend system design  
+- Scalable SaaS architecture  
+- Clean API modeling  
+- Performance optimization  
+- Distributed systems fundamentals  
+
+---
+
+# 💼 Open To
+
+- Full-Stack Internships (Remote / Hybrid)  
+- Backend-focused engineering roles  
+- Early-stage startup environments  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/aryankumarofficial  
+- Email: aryanak9163@gmail.com  
+
+---
+
+⭐ If you find my work interesting, feel free to explore the repositories.
