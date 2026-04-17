@@ -49,6 +49,7 @@ Currently pursuing B.Tech in Computer Science (2027).
 
 <!-- Stats -->
 <p align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AryanKumarOfficial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKumarOfficial&theme=neon&hide_border=true" height="160" />
 </p>
 
