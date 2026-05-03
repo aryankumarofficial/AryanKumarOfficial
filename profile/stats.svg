@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aryan Kumar's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1258, Total PRs: 45, Total Issues: 2, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1260, Total PRs: 45, Total Issues: 2, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 145.19657704677056;
+        stroke-dashoffset: 145.1894973027462;
       }
     }
   
